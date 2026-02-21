@@ -43,6 +43,17 @@
     ]
   },
   {
+    "id": 5,
+    "title": "Longest Palindromic Substring",
+    "title_slug": "longest-palindromic-substring",
+    "difficulty": "Medium",
+    "skills": [
+      "Dynamic Programming",
+      "String",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 6,
     "title": "Zigzag Conversion",
     "title_slug": "zigzag-conversion",
