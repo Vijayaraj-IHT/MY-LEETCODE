@@ -172,5 +172,16 @@
       "Array",
       "Two Pointers"
     ]
+  },
+  {
+    "id": 28,
+    "title": "Find the Index of the First Occurrence in a String",
+    "title_slug": "find-the-index-of-the-first-occurrence-in-a-string",
+    "difficulty": "Easy",
+    "skills": [
+      "String",
+      "String Matching",
+      "Two Pointers"
+    ]
   }
 ]
