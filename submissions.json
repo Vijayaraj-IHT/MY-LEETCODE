@@ -90,6 +90,17 @@
     ]
   },
   {
+    "id": 10,
+    "title": "Regular Expression Matching",
+    "title_slug": "regular-expression-matching",
+    "difficulty": "Hard",
+    "skills": [
+      "Dynamic Programming",
+      "Recursion",
+      "String"
+    ]
+  },
+  {
     "id": 13,
     "title": "Roman to Integer",
     "title_slug": "roman-to-integer",
