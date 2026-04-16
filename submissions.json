@@ -205,5 +205,15 @@
       "String Matching",
       "Two Pointers"
     ]
+  },
+  {
+    "id": 35,
+    "title": "Search Insert Position",
+    "title_slug": "search-insert-position",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Binary Search"
+    ]
   }
 ]
